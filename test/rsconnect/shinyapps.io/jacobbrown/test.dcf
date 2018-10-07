@@ -1,0 +1,10 @@
+name: test
+title:
+username:
+account: jacobbrown
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 498158
+bundleId: 1627701
+url: https://jacobbrown.shinyapps.io/test/
+when: 1538903961.77341

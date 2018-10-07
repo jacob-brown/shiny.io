@@ -1,0 +1,10 @@
+name: gpx_processing
+title:
+username:
+account: jacobbrown
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 498154
+bundleId: 1628118
+url: https://jacobbrown.shinyapps.io/gpx_processing/
+when: 1538932562.23007
